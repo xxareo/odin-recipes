@@ -1,0 +1,32 @@
+/* all text inherits this */
+li, h1, h4, p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+
+h1 {
+    color:royalblue;
+    text-align: center;
+}
+
+.centertext{
+    text-align: center;
+}
+
+li, p, h4 {
+    font-size: 18px;
+}
+
+li {
+    padding-bottom: 14px;
+}
+
+.footer{
+    padding-bottom: 20px;
+}
+
+.centerimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
